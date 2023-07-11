@@ -1,1 +1,1 @@
-Dies ist eine Beispieltextdatei 1.
+Dies ist eine geänderte Beispieltextdatei 1.
